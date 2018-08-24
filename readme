@@ -1,0 +1,7 @@
+cnn模型训练和测试
+python text_cnn.py train
+python text_cnn.py test
+
+rnn模型训练和测试
+python text_rnn.py train
+python text_rnn.py test
